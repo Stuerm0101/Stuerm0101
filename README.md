@@ -1,6 +1,6 @@
 ### Hello! welcome to my profile 👋✅
---->
---->42
+### --->Student of System Information
+
   
 
 ### Technologies I use in my day 👨‍💻
